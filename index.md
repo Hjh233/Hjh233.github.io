@@ -20,7 +20,6 @@ I am a third-year master student at the [School of Computer Science, University 
 ## Publications
 ### Recommender Systems
 1. **[RecSys'2024]** **Jiahui Huang**, Lan Zhang, Junhao Wang, Shanyang Jiang, Dongbo Huang, Cheng Ding, Lan Xu. - "Utilizing Non-click Samples via Semi-supervised Learning for Conversion Rate Prediction" - [PDF](https://dl.acm.org/doi/abs/10.1145/3640457.3688151) [Code](https://github.com/Hjh233/NISE)
-2. **[CIKM'2024]** Shanyang Jiang, Lan Zhang, Hui Xu, **Jiahui Huang**, Qi He, Xing Zhou, Lei Huang, Jie Jiang. - "GameTrail: Probabilistic Lifecycle Process Model for Deep Game Understanding" - [PDF](https://dl.acm.org/doi/abs/10.1145/3627673.3679736)
 
 ### Federated Learning
 1. **[TMC,2024]** Anran Li, **Jiahui Huang**, Ju Jia, Hongyi Peng, Lan Zhang, Luu Anh Tuan, Han Yu, Xiang-Yang Li - “Efficient and Privacy-Preserving Feature Importance-based Vertical Federated Learning” - [PDF](https://ieeexplore.ieee.org/abstract/document/10321722)
